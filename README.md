@@ -6,7 +6,7 @@ A Student Registration system with Registration page form, complete with React-f
 
 ![image](https://github.com/Siddhesh-Ballal/Registration-Webapp/assets/83124953/ee9a9f27-f030-423f-8a25-318e9c2b6646)
 
-<h2>Pages Selection in Home Page (Swagger)</h2>
+<h2>Pages Selection in Home Page </h2>
 
 ![image (1)](https://github.com/Siddhesh-Ballal/Registration-Webapp/assets/83124953/e97f9641-ca82-4273-a685-78d327a12075)
 
